@@ -17,6 +17,6 @@ OpenLoomi is an open-source AI desktop application that connects to your tools (
 ## Links
 
 - 🌐 [openloomi.ai](https://openloomi.ai)
-- 📖 [Documentation](https://docs.openloomi.ai)
+- 📖 [Documentation](https://openloomi.ai/docs)
 - 🐛 [Issues](https://github.com/melandlabs/openloomi/issues)
 - 💬 [Discussions](https://github.com/melandlabs/openloomi/discussions)
