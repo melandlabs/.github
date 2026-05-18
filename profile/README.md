@@ -20,7 +20,3 @@ OpenLoomi is an open-source AI desktop application that connects to your tools (
 - 📖 [Documentation](https://docs.openloomi.ai)
 - 🐛 [Issues](https://github.com/melandlabs/openloomi/issues)
 - 💬 [Discussions](https://github.com/melandlabs/openloomi/discussions)
-
-## Tech Stack
-
-TypeScript · Next.js 16 · Tauri · PostgreSQL · SQLite · Claude AI · MCP
