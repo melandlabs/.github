@@ -14,15 +14,6 @@ OpenLoomi is an open-source AI desktop application that connects to your tools (
 - **Local-First Security** — All data stored locally with AES-256 encryption
 - **Document Skills** — Create and edit DOCX, XLSX, PPTX, PDF
 
-## Quick Start
-
-```bash
-git clone https://github.com/melandlabs/openloomi.git
-cd openloomi
-pnpm install --ignore-scripts=false
-pnpm tauri:dev
-```
-
 ## Links
 
 - 🌐 [openloomi.ai](https://openloomi.ai)
