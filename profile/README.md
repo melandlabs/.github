@@ -9,7 +9,7 @@ Meland Labs creates personalized AI assistants that manage and organize your day
 ## Key Features
 
 - **Self-Evolving Memory** — Short to long-term memory with progressive forgetting
-- **40+ Platform Connectors** — Telegram, WhatsApp, Gmail, Slack, Jira, Notion, and more
+- **Platform Connectors** — Telegram, WhatsApp, Gmail, Slack, Jira, Notion, and more
 - **Agentic Automation** — Scheduled jobs with cron expressions, autonomous task execution
 - **Local-First Security** — All data stored locally with AES-256 encryption
 - **Document Skills** — Create and edit DOCX, XLSX, PPTX, PDF
