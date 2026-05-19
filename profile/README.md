@@ -1,10 +1,10 @@
 # Meland Labs
 
-**OpenLoomi** — Proactive AI workspace that monitors business signals, orchestrates tasks autonomously, and tracks results end-to-end.
+Meland Labs creates personalized AI assistants that manage and organize your day freeing you to focus on what truly matters.
 
 ## What We Build
 
-OpenLoomi is an open-source AI desktop application that connects to your tools (messaging, email, calendar, project trackers) and builds a "Self-Evolving Memory" of your work.
+[OpenLoomi](https://github.com/melandlabs/openloomi) is an open-source AI desktop application that connects to your tools (messaging, email, calendar, project trackers) and builds a "Self-Evolving Memory" of your work.
 
 ## Key Features
 
