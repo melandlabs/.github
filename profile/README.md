@@ -12,7 +12,7 @@ Meland Labs creates personalized AI assistants that manage and organize your day
 - **Platform Connectors** — Telegram, WhatsApp, Gmail, Slack, Jira, Notion, and more
 - **Agentic Automation** — Scheduled jobs with cron expressions, autonomous task execution
 - **Local-First Security** — All data stored locally with AES-256 encryption
-- **Open Sourced Skills** — Skills are open-source and can be integrated into any Agent (Claude Code, Codex, OpenClaw, Hermes, and more via MCP)
+- **Open Sourced Skills** — Skills are open-source and can be integrated into any Agent (Claude Code, Codex, OpenClaw, Hermes, and more)
 
 ## Links
 
