@@ -4,7 +4,7 @@ Meland Labs creates personalized AI assistants that manage and organize your day
 
 ## What We Build
 
-[OpenLoomi](https://github.com/melandlabs/openloomi) is an open-source AI workspace that connects to the tools you already use — messaging apps, email, calendar, documents, project trackers — and builds a **Holistic Context Graph** of your people, projects, and decisions.
+[OpenLoomi](https://github.com/melandlabs/openloomi) is an open-source AI workspace that connects to the tools you already use — messaging apps, email, calendar, documents, project trackers — and builds a **Holistic Context** of your people, projects, and decisions.
 
 ## Why It Is Different
 
