@@ -17,7 +17,7 @@ Meland Labs creates personalized AI assistants that manage and organize your day
 
 ## Key Features
 
-- **Holistic Context Graph** — Short → mid → long-term memory that grows on its own, visible and auditable
+- **Holistic Context** — Short → mid → long-term memory that grows on its own, visible and auditable
 - **Platform Connectors** — Telegram, WhatsApp, WeChat, DingTalk, Feishu, Gmail, Google Calendar, Outlook, X/Twitter, LinkedIn, iMessage, and more
 - **Proactive Tasks** — Intelligent task execution that anticipates your needs at the right moment
 - **Local-First Security** — Native desktop apps with AES-256 encryption, no data leaves your machine
