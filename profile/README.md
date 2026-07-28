@@ -15,6 +15,13 @@ An always-on desktop **attention agent** (Loomi) watches the door so you don't h
 - 🖥️ **Local-First Security** — Native apps for Windows, macOS, and Linux with AES-256 encryption, no data leaves your machine, auditable access logs.
 - 🧩 **Any Agent Integration** — Context, memory, connectors, attention agent, and Loop engine are all delivered as open-source Skills and Plugins — plug into Claude Code, Codex, OpenCode, Hermes, or OpenClaw.
 
+## What is it for?
+
+- **Stop dropping commitments.** Overdue replies, creeping deadlines, "I'll send that follow-up Friday" — Loomi nudges you with a small bubble at the right moment, and you can teach it the signals and decisions to watch for.
+- **Find anything from your work life in seconds.** "What did I decide about pricing last quarter?", "Who owns design on Acorn?", "What was I working on before vacation?" — memory spans every tool and channel, no more digging through Slack, Gmail, or Notion.
+- **Morning brief at 9 AM, end-of-day recap at 6 PM.** Today's to-do slides into view every morning, today's done ships every evening — the key info lives in one place instead of nine apps.
+- **Ask AI for work help right inside your chat.** Draft a reply, summarize a long thread, schedule a follow-up — directly in Telegram, WhatsApp, iMessage, QQ, or Lark/Feishu.
+
 ## Why It Is Different
 
 | Compared with...           | OpenLoomi adds                                                                                                    |
