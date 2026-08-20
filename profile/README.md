@@ -1,8 +1,10 @@
 # Meland Labs
 
-Meland Labs builds open-source AI coworkers that protect your attention — connecting the tools you already use and surfacing only what needs your decision or action.
+Meland Labs builds open-source AI coworkers and the context runtimes that power them — connecting the tools you already use and surfacing only what needs your decision or action.
 
 ## What We Build
+
+### OpenLoomi
 
 [OpenLoomi](https://github.com/melandlabs/openloomi) is an open-source AI coworker built to protect your attention. It connects the tools you use and, with your permission, understands what's on your screen — bringing together the context behind your people, projects, and decisions, then surfacing only what needs your decision or action.
 
@@ -14,6 +16,18 @@ An always-on desktop **attention agent** (Loomi) watches the door so you don't h
 - ⏰ **Proactive Tasks** — Schedule recurring work — daily digests, weekly reports, reminders — that run automatically on your desktop.
 - 🖥️ **Local-First Security** — Native apps for Windows, macOS, and Linux with AES-256 encryption, no data leaves your machine, auditable access logs.
 - 🧩 **Any Agent Integration** — Context, memory, connectors, attention agent, and Loop engine are all delivered as open-source Skills and Plugins — plug into Claude Code, Codex, OpenCode, Hermes, or OpenClaw.
+
+### OpenContext
+
+[OpenContext](https://github.com/melandlabs/opencontext) is the agentic context runtime that powers OpenLoomi — and is open-source so any team can embed it. It bundles a temporal context graph, memory API, retrieval primitives, multi-platform integration mesh, and a deterministic loop engine behind a single `pnpm add @melandlabs/opencontext`, so you can ship a durable, auditable agent in days instead of quarters.
+
+- 🧠 **Temporal Context Graph** — facts carry `valid_from` / `valid_until`; supersession, contradiction, and merge are first-class edges with append-only corrections.
+- 🔌 **Integration Mesh** — uniform `IntegrationRecord` across Gmail, Slack, Telegram, Linear, Jira, iMessage, Feishu, and Weixin.
+- ⏰ **Deterministic Loop Engine** — the scheduler wakes up, decides if there's real work, then calls the agent — never the other way around.
+- 🔍 **Retrieval Primitives** — chunking, embeddings, parsers, sqlite-vec / pgvector / Chroma adapters.
+- 🤖 **Agent Runtime** — AI SDK wrappers, sandbox providers, MCP server, and memory consolidation.
+- 🪶 **Library-First API** — add one dependency, then embed it, run the HTTP daemon, or wire it as an MCP server into Claude Desktop / Cursor.
+- 🛡️ **Audit & Encrypted Storage** — JSONL audit logs, Fernet encryption, URL allow/blocklist by default.
 
 ## What is it for?
 
@@ -39,3 +53,4 @@ An always-on desktop **attention agent** (Loomi) watches the door so you don't h
 - 💬 [Discussions](https://github.com/melandlabs/openloomi/discussions)
 - 👾 [Discord](https://discord.com/invite/xkJaJyWcsv)
 - 🐦 [X](https://x.com/AlloomiAI)
+- 🧠 [OpenContext on GitHub](https://github.com/melandlabs/opencontext)
