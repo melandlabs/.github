@@ -1,8 +1,19 @@
 # Meland Labs
 
-Meland Labs builds open-source AI coworkers and the context runtimes that power them — connecting the tools you already use and surfacing only what needs your decision or action.
+Meland Labs builds AI coworkers — [Alloomi](https://alloomi.ai), our flagship (closed-source) product, plus the open-source [OpenLoomi](https://github.com/melandlabs/openloomi) and the [OpenContext](https://github.com/melandlabs/opencontext) runtime that power it — connecting the tools you already use and surfacing only what needs your decision or action.
 
 ## What We Build
+
+### Alloomi
+
+[Alloomi](https://alloomi.ai) is our flagship product — a **proactive AI workspace** that turns expert judgment, working methods, and proprietary knowledge into evolving digital employees. It keeps up with your work across meetings, projects, and email, prepares the next step before you ask, learns from every review and completed task, and moves approved work forward — with you making the calls that matter.
+
+- 📡 **Proactive by default** — Alloomi follows updates across documents, projects, and conversations, and surfaces what changed, why it matters, and what deserves attention next.
+- 🧑‍💼 **AI employees for real professions** — starting with legal work: contract review and drafting grounded in matter facts, your client's position, and lawyer-approved standards. More professions on the way.
+- 🧠 **Memory shaped by your expertise** — learns your non-negotiables, review approach, and writing style from real work and expert corrections, then applies them to the next similar task.
+- ✅ **You stay in control** — external messages, negotiation steps, and key changes wait for your approval, with a record of each step.
+
+Alloomi is closed source — it runs on the same context runtime and agent architecture that we ship openly as OpenContext and OpenLoomi.
 
 ### OpenLoomi
 
@@ -47,6 +58,7 @@ An always-on desktop **attention agent** (Loomi) watches the door so you don't h
 
 ## Links
 
+- 🌐 [alloomi.ai](https://alloomi.ai) — Alloomi, our flagship product
 - 🌐 [openloomi.ai](https://openloomi.ai)
 - 📖 [Documentation](https://openloomi.ai/docs)
 - 🐛 [Issues](https://github.com/melandlabs/openloomi/issues)
